@@ -40,3 +40,7 @@ In the project directory, you can run the following scripts:
 ## Learn More
 
 To learn more about React, check out the [React documentation](https://reactjs.org/).
+
+## Hosted URl-
+
+URL - `https://photofolio-navy.vercel.app/`
